@@ -1,2 +1,2 @@
 # MineCeeper
-Minesweeper C commandline application.
+Minesweeper C command line application.
